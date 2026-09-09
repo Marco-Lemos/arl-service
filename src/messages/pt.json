@@ -1,0 +1,220 @@
+{
+  "Metadata": {
+    "title": "ARL Service | Empreiteira Licenciada em Filadélfia, PA",
+    "description": "A ARL Service oferece reforma de cozinhas, reforma de banheiros e reforma residencial completa, licenciada e segurada, em toda a região da Filadélfia, PA."
+  },
+  "Nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "kitchenRemodeling": "Reforma de Cozinha",
+    "bathroomRemodeling": "Reforma de Banheiro",
+    "homeRenovation": "Reforma Residencial Completa",
+    "viewAllServices": "Ver todos os serviços",
+    "portfolio": "Portfólio",
+    "contact": "Contato",
+    "getEstimate": "Solicitar Orçamento Gratuito",
+    "language": "Idioma",
+    "openMenu": "Abrir menu",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "tagline": "Empreiteira licenciada atendendo famílias na Filadélfia com reformas de cozinha, banheiro e reforma residencial completa.",
+    "servicesHeading": "Serviços",
+    "companyHeading": "Empresa",
+    "contactHeading": "Contato",
+    "licensedInsured": "Licenciada e Segurada",
+    "rightsReserved": "Todos os direitos reservados."
+  },
+  "TrustBadges": {
+    "licensedInsured": "Licenciada e Segurada",
+    "qualityCraftsmanship": "Qualidade Garantida",
+    "qualityCraftsmanshipSub": "Em cada projeto",
+    "freeEstimates": "Orçamento Gratuito",
+    "freeEstimatesSub": "Sem custo, sem compromisso",
+    "servingPhiladelphia": "Atendemos a Filadélfia",
+    "servingPhiladelphiaSub": "E arredores"
+  },
+  "LeadForm": {
+    "step1Title": "Qual serviço você precisa?",
+    "service_kitchen-remodeling": "Cozinha",
+    "service_bathroom-remodeling": "Banheiro",
+    "service_home-renovation": "Reforma Residencial",
+    "service_other": "Outro",
+    "step2Title": "Qual a urgência para começar?",
+    "timeline_immediately": "Imediatamente",
+    "timeline_1-3-months": "1 a 3 meses",
+    "timeline_3-6-months": "3 a 6 meses",
+    "timeline_researching": "Só pesquisando",
+    "step3Title": "Como podemos te contatar?",
+    "nameLabel": "Nome completo",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Telefone",
+    "zipLabel": "CEP (ZIP code dos EUA)",
+    "messageLabel": "Mais alguma informação? (opcional)",
+    "back": "Voltar",
+    "next": "Próximo",
+    "submit": "Solicitar meu orçamento gratuito",
+    "submitting": "Enviando…",
+    "successTitle": "Solicitação recebida",
+    "successBody": "Obrigado — entraremos em contato em até um dia útil para agendar seu orçamento gratuito.",
+    "errorInvalid": "Confira os campos acima.",
+    "errorServer": "Algo deu errado. Tente novamente ou ligue para nós."
+  },
+  "Home": {
+    "heroTitle": "Empreiteira Licenciada em Reforma de Cozinha e Banheiro na Filadélfia, PA",
+    "heroSubtitle": "A ARL Service é uma empreiteira licenciada e segurada que atende famílias na Filadélfia com reforma de cozinha, reforma de banheiro e reforma residencial completa.",
+    "heroCta": "Solicitar Orçamento Gratuito",
+    "servicesTitle": "Nossos Serviços",
+    "servicesSubtitle": "Três especialidades, uma única equipe licenciada — de um cômodo à casa inteira.",
+    "portfolioTitle": "Projetos Recentes",
+    "portfolioEmptyTitle": "Portfólio em breve",
+    "portfolioEmptyBody": "Estamos fotografando projetos recentes na Filadélfia para adicionar aqui — volte em breve.",
+    "testimonialsTitle": "O Que Nossos Clientes Dizem",
+    "testimonialsEmptyTitle": "Depoimentos em breve",
+    "testimonialsEmptyBody": "Estamos reunindo depoimentos de clientes recentes para exibir aqui.",
+    "estimateTitle": "Solicite Seu Orçamento Gratuito",
+    "estimateSubtitle": "Conte um pouco sobre o seu projeto — respondemos em até um dia útil."
+  },
+  "Services": {
+    "kitchen-remodeling": {
+      "title": "Reforma de Cozinha",
+      "description": "Armários sob medida, bancadas e novos layouts — projetados e executados dentro do código de obras da Filadélfia."
+    },
+    "bathroom-remodeling": {
+      "title": "Reforma de Banheiro",
+      "description": "De revestimentos a boxes de banho, reformas completas ou pontuais."
+    },
+    "home-renovation": {
+      "title": "Reforma Residencial",
+      "description": "Ampliações, acabamento de porão e reformas completas, do alvará à entrega final."
+    }
+  },
+  "ServicePages": {
+    "kitchen-remodeling": {
+      "title": "Reforma de Cozinha na Filadélfia, PA",
+      "metaDescription": "A ARL Service oferece reforma de cozinha licenciada na Filadélfia, PA — armários sob medida, elétrica e hidráulica dentro do código, com projetos totalmente licenciados para rowhomes da Filadélfia.",
+      "heroSubtitle": "Reforma de cozinha licenciada, com todos os alvarás — de uma atualização pontual a uma reforma completa.",
+      "overview": [
+        "As cozinhas dos rowhomes da Filadélfia costumam ter espaços estreitos e fiação ou encanamento antigos, que não foram projetados para os eletrodomésticos de hoje. A ARL Service projeta considerando essas limitações — refazendo o layout, atualizando as linhas elétricas e de gás conforme o código, e encaixando armários em cômodos que raramente têm um único canto reto.",
+        "Toda reforma de cozinha é totalmente licenciada junto ao Departamento de Licenças e Inspeções (L&I) da Filadélfia antes do início da obra, com inspeções agendadas em cada etapa exigida."
+      ],
+      "whatsIncluded": [
+        "Armários sob medida ou semi-customizados",
+        "Fabricação e instalação de bancadas (quartzo, granito, madeira maciça)",
+        "Atualização de elétrica e linhas de gás conforme o código atual",
+        "Realocação de encanamento para pias, lava-louças e fogões a gás",
+        "Piso, revestimento (backsplash) e iluminação"
+      ],
+      "faqs": [
+        {
+          "question": "Quanto custa reformar uma cozinha na Filadélfia?",
+          "answer": "A maioria das reformas de cozinha na Filadélfia fica entre $20.000 e $60.000, dependendo do tamanho da cozinha, da extensão das mudanças de layout e dos acabamentos escolhidos. Uma atualização pontual — novas bancadas, frentes de armário e backsplash sem mexer no encanamento — geralmente fica abaixo de $25.000. Uma reforma completa com novo layout, armários sob medida e eletrodomésticos de alto padrão pode passar de $60.000. Fornecemos um orçamento fechado e por escrito após uma visita técnica."
+        },
+        {
+          "question": "Preciso de alvará para reformar minha cozinha na Filadélfia?",
+          "answer": "Sim, se a obra envolver mudanças de encanamento, gás ou elétrica, ou qualquer trabalho estrutural, como remoção de parede. Atualizações estéticas — como pintura, troca de portas de armário ou troca de bancada sem mexer no encanamento — geralmente não exigem alvará. A ARL Service providencia e gerencia todos os alvarás do L&I necessários em cada reforma."
+        },
+        {
+          "question": "Quanto tempo leva uma reforma de cozinha?",
+          "answer": "Uma reforma de cozinha típica leva de 6 a 10 semanas, da demolição à inspeção final, dependendo do escopo do trabalho e do prazo de fabricação e entrega de armários e bancadas sob medida."
+        },
+        {
+          "question": "Quanto devo reservar para custos inesperados em uma casa antiga da Filadélfia?",
+          "answer": "Reserve de 10% a 15% além do seu orçamento base. No estoque de casas mais antigas da Filadélfia, surpresas comuns incluem fiação desatualizada que não atende ao código atual, danos por umidade atrás dos armários e, em casas construídas antes de 1978, tinta com chumbo, que exige remoção especializada conforme as regras da EPA antes de a obra continuar."
+        }
+      ]
+    },
+    "bathroom-remodeling": {
+      "title": "Reforma de Banheiro na Filadélfia, PA",
+      "metaDescription": "A ARL Service oferece reforma de banheiro licenciada na Filadélfia, PA — revestimentos, boxes de banho e reformas completas, licenciadas e dentro do código.",
+      "heroSubtitle": "Reforma de banheiro licenciada, com todos os alvarás — de uma atualização pontual a uma reforma completa com box walk-in.",
+      "overview": [
+        "Muitos rowhomes da Filadélfia ainda têm o encanamento original de meados do século passado, o que limita as opções de layout sem refazer toda a tubulação. A ARL Service avalia a coluna de encanamento existente antes de propor um layout, para que o banheiro finalizado funcione com a estrutura da sua casa, e não contra ela.",
+        "De uma atualização pontual a uma reforma completa com box walk-in, todo projeto é licenciado e inspecionado pelo L&I da Filadélfia."
+      ],
+      "whatsIncluded": [
+        "Instalação de revestimento, banheira e box (incluindo boxes walk-in e sem soleira)",
+        "Instalação de gabinete, cuba e metais",
+        "Atualização de elétrica e encanamento conforme o código",
+        "Impermeabilização e reparo de contrapiso",
+        "Atualização de ventilação (exaustor)"
+      ],
+      "faqs": [
+        {
+          "question": "Quanto custa reformar um banheiro na Filadélfia?",
+          "answer": "A maioria das reformas de banheiro na Filadélfia fica entre $10.000 e $50.000. Uma atualização básica que mantém o layout existente — novo revestimento, gabinete e metais — geralmente fica entre $10.000 e $20.000. Uma reforma completa que muda o encanamento ou amplia o espaço pode passar de $30.000 a $50.000."
+        },
+        {
+          "question": "Posso colocar um box walk-in em um banheiro antigo na Filadélfia?",
+          "answer": "Na maioria dos casos, sim. Trocar a banheira por um box walk-in ou sem soleira é uma das atualizações mais pedidas no estoque de casas mais antigas da Filadélfia, embora possa exigir ajuste do contrapiso ou do ponto de escoamento, dependendo do encanamento da casa."
+        },
+        {
+          "question": "Quanto tempo leva uma reforma de banheiro?",
+          "answer": "Uma reforma completa de um banheiro geralmente leva de 3 a 5 semanas, da demolição à vistoria final."
+        },
+        {
+          "question": "Preciso de alvará para reformar um banheiro na Filadélfia?",
+          "answer": "Sim, para qualquer trabalho de encanamento ou elétrica. Um alvará básico de reforma na Filadélfia custa geralmente entre $50 e $300; escopos maiores ou mudanças estruturais podem exigir alvarás adicionais e análise de zoneamento."
+        }
+      ]
+    },
+    "home-renovation": {
+      "title": "Reforma Residencial na Filadélfia, PA",
+      "metaDescription": "A ARL Service oferece reforma residencial e ampliações licenciadas na Filadélfia, PA — acabamento de porão, ampliações e reformas completas, do alvará à entrega final.",
+      "heroSubtitle": "Reforma residencial e ampliações licenciadas — acabamento de porão, ampliação de segundo andar e projetos completos em um único contrato.",
+      "overview": [
+        "Seja para acabar um porão, ampliar os fundos da casa ou reformar um rowhome inteiro, a ARL Service coordena todas as especialidades — estrutura, elétrica, hidráulica e HVAC — em um único contrato e cronograma.",
+        "Os lotes pequenos da Filadélfia fazem com que muitas ampliações cresçam para cima em vez de para os lados, o que envolve reforço estrutural da casa existente. Avaliamos a estrutura da sua casa e as exigências de zoneamento da cidade antes de finalizar um projeto."
+      ],
+      "whatsIncluded": [
+        "Acabamento e impermeabilização de porão",
+        "Ampliações nos fundos e de segundo andar",
+        "Trabalho estrutural (remoção de parede, instalação de vigas estruturais)",
+        "Reformas residenciais completas coordenando todas as especialidades",
+        "Coordenação de alvarás e zoneamento com a Prefeitura da Filadélfia"
+      ],
+      "faqs": [
+        {
+          "question": "Quanto custa uma ampliação ou reforma residencial na Filadélfia?",
+          "answer": "Ampliações na Filadélfia geralmente custam entre $150 e $300 por pé quadrado, dependendo se a ampliação é para os lados ou para cima (segundo andar), que exige mais trabalho estrutural. Uma reforma residencial completa geralmente varia de $40.000 a $150.000 ou mais, dependendo da metragem e do escopo."
+        },
+        {
+          "question": "Preciso de uma variação de zoneamento para ampliar minha casa na Filadélfia?",
+          "answer": "Depende do distrito de zoneamento do imóvel e do tamanho, altura e recuos da ampliação proposta. Algumas ampliações se encaixam no zoneamento existente automaticamente, enquanto outras exigem uma variação do Zoning Board of Adjustment. Analisamos isso durante a fase de projeto, antes de você fechar um plano final."
+        },
+        {
+          "question": "Quanto tempo leva uma reforma residencial completa?",
+          "answer": "Uma reforma residencial completa geralmente leva de 3 a 6 meses, da aprovação do alvará à inspeção final, dependendo do escopo do trabalho e do número de especialidades envolvidas."
+        },
+        {
+          "question": "Vocês fazem acabamento de porão em rowhomes da Filadélfia?",
+          "answer": "Sim. O acabamento de porão em rowhomes mais antigos da Filadélfia geralmente exige resolver primeiro questões de umidade e pé-direito — avaliamos os dois na visita inicial, antes de propor um layout."
+        }
+      ]
+    }
+  },
+  "ServicesHub": {
+    "title": "Nossos Serviços",
+    "subtitle": "A ARL Service é uma empreiteira licenciada que oferece reforma de cozinha, reforma de banheiro e reforma residencial completa em toda a Filadélfia, PA."
+  },
+  "ServiceDetail": {
+    "whatsIncludedTitle": "O Que Está Incluído",
+    "faqTitle": "Perguntas Frequentes",
+    "ctaTitle": "Pronto para começar seu projeto?",
+    "ctaSubtitle": "Solicite um orçamento gratuito e sem compromisso para o seu projeto na Filadélfia.",
+    "backToServices": "Todos os Serviços"
+  },
+  "Portfolio": {
+    "title": "Nosso Portfólio",
+    "subtitle": "Projetos reais de antes e depois de toda a região da Filadélfia.",
+    "emptyTitle": "Portfólio em breve",
+    "emptyBody": "Estamos fotografando projetos recentes na Filadélfia para adicionar aqui — volte em breve."
+  },
+  "Contact": {
+    "title": "Contate a ARL Service",
+    "subtitle": "Dúvidas sobre o seu projeto? Fale conosco diretamente ou solicite um orçamento gratuito abaixo.",
+    "infoTitle": "Fale Conosco",
+    "mapTitle": "Área de Atendimento",
+    "formTitle": "Solicitar Orçamento Gratuito"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "Metadata": {
+    "title": "ARL Service | Licensed General Contractor in Philadelphia, PA",
+    "description": "ARL Service provides licensed and insured kitchen remodeling, bathroom remodeling and full home renovation across Philadelphia, PA."
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "kitchenRemodeling": "Kitchen Remodeling",
+    "bathroomRemodeling": "Bathroom Remodeling",
+    "homeRenovation": "Home Renovation",
+    "viewAllServices": "View all services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "getEstimate": "Get a Free Estimate",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "menu": "Menu"
+  },
+  "Footer": {
+    "tagline": "Licensed general contractor serving Philadelphia homeowners with kitchen, bathroom and full home renovations.",
+    "servicesHeading": "Services",
+    "companyHeading": "Company",
+    "contactHeading": "Contact",
+    "licensedInsured": "Licensed & Insured",
+    "rightsReserved": "All rights reserved."
+  },
+  "TrustBadges": {
+    "licensedInsured": "Licensed & Insured",
+    "qualityCraftsmanship": "Quality Craftsmanship",
+    "qualityCraftsmanshipSub": "Every project, done right",
+    "freeEstimates": "Free Estimates",
+    "freeEstimatesSub": "No cost, no obligation",
+    "servingPhiladelphia": "Serving Philadelphia",
+    "servingPhiladelphiaSub": "And the surrounding area"
+  },
+  "LeadForm": {
+    "step1Title": "Which service do you need?",
+    "service_kitchen-remodeling": "Kitchen",
+    "service_bathroom-remodeling": "Bathroom",
+    "service_home-renovation": "Home Renovation",
+    "service_other": "Other",
+    "step2Title": "How soon are you looking to start?",
+    "timeline_immediately": "Immediately",
+    "timeline_1-3-months": "1–3 months",
+    "timeline_3-6-months": "3–6 months",
+    "timeline_researching": "Just researching",
+    "step3Title": "How can we reach you?",
+    "nameLabel": "Full name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "zipLabel": "ZIP code",
+    "messageLabel": "Anything else we should know? (optional)",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Request my free estimate",
+    "submitting": "Sending…",
+    "successTitle": "Request received",
+    "successBody": "Thanks — we'll reach out within one business day to schedule your free estimate.",
+    "errorInvalid": "Please double-check the fields above.",
+    "errorServer": "Something went wrong. Please try again or call us directly."
+  },
+  "Home": {
+    "heroTitle": "Licensed General Contractor for Kitchen & Bathroom Remodeling in Philadelphia, PA",
+    "heroSubtitle": "ARL Service is a licensed and insured general contractor serving Philadelphia homeowners with kitchen remodeling, bathroom remodeling, and full home renovations.",
+    "heroCta": "Get a Free Estimate",
+    "servicesTitle": "Our Services",
+    "servicesSubtitle": "Three specialties, one licensed crew — from a single room to the whole house.",
+    "portfolioTitle": "Recent Projects",
+    "portfolioEmptyTitle": "Portfolio coming soon",
+    "portfolioEmptyBody": "We're photographing recent Philadelphia projects to add here — check back soon.",
+    "testimonialsTitle": "What Homeowners Say",
+    "testimonialsEmptyTitle": "Reviews coming soon",
+    "testimonialsEmptyBody": "We're collecting reviews from recent clients to feature here.",
+    "estimateTitle": "Request Your Free Estimate",
+    "estimateSubtitle": "Tell us about your project — we'll follow up within one business day."
+  },
+  "Services": {
+    "kitchen-remodeling": {
+      "title": "Kitchen Remodeling",
+      "description": "Custom cabinetry, countertops, and layouts — permitted and built to Philadelphia code."
+    },
+    "bathroom-remodeling": {
+      "title": "Bathroom Remodeling",
+      "description": "From tile work to walk-in showers, full gut renovations and refreshes."
+    },
+    "home-renovation": {
+      "title": "Home Renovation",
+      "description": "Additions, basement finishing, and whole-home renovations from permit to punch list."
+    }
+  },
+  "ServicePages": {
+    "kitchen-remodeling": {
+      "title": "Kitchen Remodeling in Philadelphia, PA",
+      "metaDescription": "ARL Service provides licensed kitchen remodeling in Philadelphia, PA — custom cabinetry, code-compliant electrical and plumbing, and permitted renovations for Philadelphia rowhomes.",
+      "heroSubtitle": "Licensed, permitted kitchen remodeling built for Philadelphia's rowhouse kitchens — from a cosmetic refresh to a full gut renovation.",
+      "overview": [
+        "Philadelphia's rowhouse kitchens often work with narrow footprints and older wiring or plumbing that wasn't built for today's appliances. ARL Service designs around those constraints — reworking the layout, upgrading electrical and gas lines to code, and fitting cabinetry to rooms that rarely have a single square corner.",
+        "Every kitchen remodel is fully permitted through the City of Philadelphia's Department of Licenses & Inspections (L&I) before work begins, with inspections scheduled at each required stage."
+      ],
+      "whatsIncluded": [
+        "Custom and semi-custom cabinetry",
+        "Countertop fabrication and installation (quartz, granite, butcher block)",
+        "Electrical and gas line updates to current code",
+        "Plumbing relocation for sinks, dishwashers, and gas ranges",
+        "Flooring, backsplash, and lighting"
+      ],
+      "faqs": [
+        {
+          "question": "How much does a kitchen remodel cost in Philadelphia?",
+          "answer": "Most Philadelphia kitchen remodels run between $20,000 and $60,000, depending on the size of the kitchen, the scope of layout changes, and the finishes selected. A cosmetic refresh — new countertops, cabinet fronts, and a backsplash without moving plumbing — typically stays under $25,000. A full gut renovation with a new layout, custom cabinetry, and high-end appliances can run $60,000 or more. We provide a firm, written quote after an in-home assessment."
+        },
+        {
+          "question": "Do I need a permit to remodel my kitchen in Philadelphia?",
+          "answer": "Yes, if the work involves plumbing, gas line, or electrical changes, or any structural work such as removing a wall. Cosmetic updates — like painting, refacing cabinets, or swapping a countertop without moving plumbing — generally don't require a permit. ARL Service pulls and manages all required L&I permits as part of every remodel."
+        },
+        {
+          "question": "How long does a kitchen remodel take?",
+          "answer": "A typical kitchen remodel takes 6 to 10 weeks from demolition to final inspection, depending on the scope of work and how quickly custom cabinetry and countertops can be fabricated and delivered."
+        },
+        {
+          "question": "What should I budget for unexpected costs in an older Philadelphia home?",
+          "answer": "Set aside 10-15% beyond your base budget. In Philadelphia's older housing stock, common surprises include outdated wiring that doesn't meet current code, water damage behind cabinets, and — in homes built before 1978 — lead paint that requires abatement under EPA rules before work can proceed."
+        }
+      ]
+    },
+    "bathroom-remodeling": {
+      "title": "Bathroom Remodeling in Philadelphia, PA",
+      "metaDescription": "ARL Service provides licensed bathroom remodeling in Philadelphia, PA — tile, walk-in showers, and full gut renovations, permitted and built to code.",
+      "heroSubtitle": "Licensed, permitted bathroom remodeling — from a single-fixture refresh to a full gut renovation with a walk-in shower.",
+      "overview": [
+        "Many Philadelphia rowhomes still have original mid-century bathroom plumbing, which limits layout options without a re-pipe. ARL Service evaluates the existing plumbing stack before proposing a layout, so the finished bathroom works with your home's structure instead of fighting it.",
+        "From a single-fixture refresh to a full gut renovation with a walk-in shower, every project is permitted and inspected through Philadelphia L&I."
+      ],
+      "whatsIncluded": [
+        "Tile, tub, and shower installation (including walk-in and zero-threshold showers)",
+        "Vanity, sink, and fixture installation",
+        "Plumbing and electrical updates to code",
+        "Waterproofing and subfloor repair",
+        "Ventilation (exhaust fan) upgrades"
+      ],
+      "faqs": [
+        {
+          "question": "How much does a bathroom remodel cost in Philadelphia?",
+          "answer": "Most Philadelphia bathroom remodels range from $10,000 to $50,000. A budget refresh that keeps the existing layout — new tile, vanity, and fixtures — typically runs $10,000 to $20,000. A full gut renovation that moves plumbing or expands the space can run $30,000 to $50,000 or more."
+        },
+        {
+          "question": "Can I add a walk-in shower to an older Philadelphia bathroom?",
+          "answer": "In most cases, yes. Converting a tub to a walk-in or zero-threshold shower is one of the most requested upgrades in Philadelphia's older housing stock, though it may require adjusting the subfloor or drain location depending on your home's plumbing."
+        },
+        {
+          "question": "How long does a bathroom remodel take?",
+          "answer": "A single full bathroom remodel typically takes 3 to 5 weeks from demolition to final walkthrough."
+        },
+        {
+          "question": "Do I need a permit for a bathroom remodel in Philadelphia?",
+          "answer": "Yes, for any plumbing or electrical work. A basic remodel permit in Philadelphia typically costs $50 to $300; a larger scope or structural changes may require additional permits and a zoning review."
+        }
+      ]
+    },
+    "home-renovation": {
+      "title": "Home Renovation in Philadelphia, PA",
+      "metaDescription": "ARL Service provides licensed home renovation and additions in Philadelphia, PA — basement finishing, additions, and whole-home renovations from permit to punch list.",
+      "heroSubtitle": "Licensed, permitted home renovations and additions — basement finishing, second-story additions, and whole-home projects under one contract.",
+      "overview": [
+        "Whether it's finishing a basement, adding a rear extension, or renovating an entire rowhome, ARL Service manages every trade — framing, electrical, plumbing, and HVAC — under one contract and one schedule.",
+        "Philadelphia's small lot sizes mean many additions build up rather than out, which involves structural reinforcement of the existing home. We evaluate your home's structure and the City's zoning requirements before finalizing a design."
+      ],
+      "whatsIncluded": [
+        "Basement finishing and waterproofing",
+        "Rear and second-story additions",
+        "Structural work (wall removal, load-bearing beam installation)",
+        "Whole-home renovations coordinated across all trades",
+        "Permit and zoning coordination with the City of Philadelphia"
+      ],
+      "faqs": [
+        {
+          "question": "How much does a home addition or renovation cost in Philadelphia?",
+          "answer": "Home additions in Philadelphia typically run $150 to $300 per square foot, depending on whether you're building out or adding a second story, which requires more structural work. A whole-home renovation typically ranges from $40,000 to $150,000 or more, depending on square footage and scope."
+        },
+        {
+          "question": "Do I need a zoning variance for a home addition in Philadelphia?",
+          "answer": "It depends on your property's zoning district and the size, height, and setbacks of the proposed addition. Some additions fit within existing zoning by right, while others require a variance from the Zoning Board of Adjustment. We review this during the design phase, before you commit to a final plan."
+        },
+        {
+          "question": "How long does a whole-home renovation take?",
+          "answer": "A full home renovation typically takes 3 to 6 months from permit approval to final inspection, depending on the scope of work and the number of trades involved."
+        },
+        {
+          "question": "Can you finish my Philadelphia rowhome's basement?",
+          "answer": "Yes. Basement finishing in older Philadelphia rowhomes often requires addressing moisture and ceiling height first — we assess both during the initial site visit before proposing a layout."
+        }
+      ]
+    }
+  },
+  "ServicesHub": {
+    "title": "Our Services",
+    "subtitle": "ARL Service is a licensed general contractor providing kitchen remodeling, bathroom remodeling, and full home renovation across Philadelphia, PA."
+  },
+  "ServiceDetail": {
+    "whatsIncludedTitle": "What's Included",
+    "faqTitle": "Frequently Asked Questions",
+    "ctaTitle": "Ready to start your project?",
+    "ctaSubtitle": "Get a free, no-obligation estimate for your Philadelphia project.",
+    "backToServices": "All Services"
+  },
+  "Portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "Real before-and-after projects from around Philadelphia.",
+    "emptyTitle": "Portfolio coming soon",
+    "emptyBody": "We're photographing recent Philadelphia projects to add here — check back soon."
+  },
+  "Contact": {
+    "title": "Contact ARL Service",
+    "subtitle": "Questions about your project? Reach out directly, or request a free estimate below.",
+    "infoTitle": "Get In Touch",
+    "mapTitle": "Service Area",
+    "formTitle": "Request a Free Estimate"
+  }
+}

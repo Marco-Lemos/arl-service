@@ -1,0 +1,220 @@
+{
+  "Metadata": {
+    "title": "ARL Service | Contratista General con Licencia en Filadelfia, PA",
+    "description": "ARL Service ofrece remodelación de cocinas, remodelación de baños y renovación integral del hogar, con licencia y seguro, en toda el área de Filadelfia, PA."
+  },
+  "Nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "kitchenRemodeling": "Remodelación de Cocina",
+    "bathroomRemodeling": "Remodelación de Baño",
+    "homeRenovation": "Renovación Integral del Hogar",
+    "viewAllServices": "Ver todos los servicios",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "getEstimate": "Solicitar Presupuesto Gratis",
+    "language": "Idioma",
+    "openMenu": "Abrir menú",
+    "menu": "Menú"
+  },
+  "Footer": {
+    "tagline": "Contratista general con licencia que atiende a familias en Filadelfia con remodelación de cocina, baño y renovación integral del hogar.",
+    "servicesHeading": "Servicios",
+    "companyHeading": "Empresa",
+    "contactHeading": "Contacto",
+    "licensedInsured": "Con Licencia y Seguro",
+    "rightsReserved": "Todos los derechos reservados."
+  },
+  "TrustBadges": {
+    "licensedInsured": "Con Licencia y Seguro",
+    "qualityCraftsmanship": "Calidad Garantizada",
+    "qualityCraftsmanshipSub": "En cada proyecto",
+    "freeEstimates": "Presupuesto Gratis",
+    "freeEstimatesSub": "Sin costo, sin compromiso",
+    "servingPhiladelphia": "Atendemos Filadelfia",
+    "servingPhiladelphiaSub": "Y alrededores"
+  },
+  "LeadForm": {
+    "step1Title": "¿Qué servicio necesita?",
+    "service_kitchen-remodeling": "Cocina",
+    "service_bathroom-remodeling": "Baño",
+    "service_home-renovation": "Renovación del Hogar",
+    "service_other": "Otro",
+    "step2Title": "¿Qué tan pronto quiere comenzar?",
+    "timeline_immediately": "Inmediatamente",
+    "timeline_1-3-months": "1 a 3 meses",
+    "timeline_3-6-months": "3 a 6 meses",
+    "timeline_researching": "Solo investigando",
+    "step3Title": "¿Cómo podemos contactarlo?",
+    "nameLabel": "Nombre completo",
+    "emailLabel": "Correo electrónico",
+    "phoneLabel": "Teléfono",
+    "zipLabel": "Código postal (ZIP)",
+    "messageLabel": "¿Algo más que debamos saber? (opcional)",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "submit": "Solicitar mi presupuesto gratis",
+    "submitting": "Enviando…",
+    "successTitle": "Solicitud recibida",
+    "successBody": "Gracias — nos pondremos en contacto dentro de un día hábil para programar su presupuesto gratis.",
+    "errorInvalid": "Revise los campos anteriores.",
+    "errorServer": "Algo salió mal. Intente de nuevo o llámenos directamente."
+  },
+  "Home": {
+    "heroTitle": "Contratista General con Licencia para Remodelación de Cocina y Baño en Filadelfia, PA",
+    "heroSubtitle": "ARL Service es un contratista general con licencia y seguro que atiende a familias en Filadelfia con remodelación de cocina, remodelación de baño y renovación integral del hogar.",
+    "heroCta": "Solicitar Presupuesto Gratis",
+    "servicesTitle": "Nuestros Servicios",
+    "servicesSubtitle": "Tres especialidades, un solo equipo con licencia — desde una habitación hasta la casa completa.",
+    "portfolioTitle": "Proyectos Recientes",
+    "portfolioEmptyTitle": "Portafolio próximamente",
+    "portfolioEmptyBody": "Estamos fotografiando proyectos recientes en Filadelfia para agregar aquí — vuelva pronto.",
+    "testimonialsTitle": "Lo Que Dicen Nuestros Clientes",
+    "testimonialsEmptyTitle": "Testimonios próximamente",
+    "testimonialsEmptyBody": "Estamos reuniendo testimonios de clientes recientes para mostrar aquí.",
+    "estimateTitle": "Solicite Su Presupuesto Gratis",
+    "estimateSubtitle": "Cuéntenos sobre su proyecto — responderemos dentro de un día hábil."
+  },
+  "Services": {
+    "kitchen-remodeling": {
+      "title": "Remodelación de Cocina",
+      "description": "Gabinetes a medida, encimeras y nuevos diseños, con permisos y construcción según el código de Filadelfia."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de Baño",
+      "description": "Desde azulejos hasta duchas walk-in, renovaciones completas o parciales."
+    },
+    "home-renovation": {
+      "title": "Renovación del Hogar",
+      "description": "Ampliaciones, terminación de sótanos y renovaciones completas, desde el permiso hasta la entrega final."
+    }
+  },
+  "ServicePages": {
+    "kitchen-remodeling": {
+      "title": "Remodelación de Cocina en Filadelfia, PA",
+      "metaDescription": "ARL Service ofrece remodelación de cocina con licencia en Filadelfia, PA — gabinetes a medida, electricidad y plomería según el código, con permisos completos para rowhomes de Filadelfia.",
+      "heroSubtitle": "Remodelación de cocina con licencia y todos los permisos — desde una actualización sencilla hasta una renovación completa.",
+      "overview": [
+        "Las cocinas de los rowhomes de Filadelfia suelen tener espacios estrechos y cableado o plomería antiguos que no fueron diseñados para los electrodomésticos actuales. ARL Service diseña considerando esas limitaciones — rehaciendo el diseño, actualizando las líneas eléctricas y de gas según el código, y ajustando los gabinetes a espacios que rara vez tienen una sola esquina recta.",
+        "Toda remodelación de cocina cuenta con permiso completo del Departamento de Licencias e Inspecciones (L&I) de Filadelfia antes de iniciar la obra, con inspecciones programadas en cada etapa requerida."
+      ],
+      "whatsIncluded": [
+        "Gabinetes a medida o semi-personalizados",
+        "Fabricación e instalación de encimeras (cuarzo, granito, madera maciza)",
+        "Actualización de electricidad y líneas de gas según el código vigente",
+        "Reubicación de plomería para fregaderos, lavavajillas y estufas de gas",
+        "Piso, salpicadero (backsplash) e iluminación"
+      ],
+      "faqs": [
+        {
+          "question": "¿Cuánto cuesta remodelar una cocina en Filadelfia?",
+          "answer": "La mayoría de las remodelaciones de cocina en Filadelfia cuestan entre $20,000 y $60,000, según el tamaño de la cocina, el alcance de los cambios de diseño y los acabados elegidos. Una actualización sencilla — nuevas encimeras, frentes de gabinete y salpicadero sin mover la plomería — normalmente se mantiene por debajo de $25,000. Una renovación completa con nuevo diseño, gabinetes a medida y electrodomésticos de alta gama puede superar los $60,000. Ofrecemos un presupuesto fijo y por escrito después de una visita a domicilio."
+        },
+        {
+          "question": "¿Necesito un permiso para remodelar mi cocina en Filadelfia?",
+          "answer": "Sí, si el trabajo incluye cambios de plomería, gas o electricidad, o cualquier trabajo estructural como quitar una pared. Las actualizaciones estéticas — como pintura, cambiar las puertas de los gabinetes o la encimera sin mover la plomería — generalmente no requieren permiso. ARL Service tramita y gestiona todos los permisos de L&I necesarios en cada remodelación."
+        },
+        {
+          "question": "¿Cuánto tiempo toma una remodelación de cocina?",
+          "answer": "Una remodelación de cocina típica toma de 6 a 10 semanas, desde la demolición hasta la inspección final, según el alcance del trabajo y el tiempo de fabricación y entrega de gabinetes y encimeras a medida."
+        },
+        {
+          "question": "¿Cuánto debo reservar para costos inesperados en una casa antigua de Filadelfia?",
+          "answer": "Reserve entre un 10% y un 15% adicional sobre su presupuesto base. En el parque de viviendas más antiguo de Filadelfia, las sorpresas comunes incluyen cableado desactualizado que no cumple con el código actual, daños por humedad detrás de los gabinetes y, en casas construidas antes de 1978, pintura con plomo que requiere remoción especializada según las normas de la EPA antes de continuar la obra."
+        }
+      ]
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de Baño en Filadelfia, PA",
+      "metaDescription": "ARL Service ofrece remodelación de baño con licencia en Filadelfia, PA — azulejos, duchas walk-in y renovaciones completas, con permisos y según el código.",
+      "heroSubtitle": "Remodelación de baño con licencia y todos los permisos — desde una actualización sencilla hasta una renovación completa con ducha walk-in.",
+      "overview": [
+        "Muchos rowhomes de Filadelfia todavía tienen la plomería original de mediados del siglo pasado, lo que limita las opciones de diseño sin rehacer toda la tubería. ARL Service evalúa la columna de plomería existente antes de proponer un diseño, para que el baño terminado funcione con la estructura de su casa, no en contra de ella.",
+        "Desde una actualización sencilla hasta una renovación completa con ducha walk-in, cada proyecto cuenta con permiso e inspección del L&I de Filadelfia."
+      ],
+      "whatsIncluded": [
+        "Instalación de azulejos, bañera y ducha (incluyendo duchas walk-in y sin umbral)",
+        "Instalación de tocador, lavamanos y griferías",
+        "Actualización de plomería y electricidad según el código",
+        "Impermeabilización y reparación de subsuelo",
+        "Actualización de ventilación (extractor)"
+      ],
+      "faqs": [
+        {
+          "question": "¿Cuánto cuesta remodelar un baño en Filadelfia?",
+          "answer": "La mayoría de las remodelaciones de baño en Filadelfia van de $10,000 a $50,000. Una actualización básica que mantiene el diseño existente — nuevos azulejos, tocador y griferías — normalmente cuesta entre $10,000 y $20,000. Una renovación completa que mueve la plomería o amplía el espacio puede costar entre $30,000 y $50,000 o más."
+        },
+        {
+          "question": "¿Puedo poner una ducha walk-in en un baño antiguo de Filadelfia?",
+          "answer": "En la mayoría de los casos, sí. Convertir una bañera en una ducha walk-in o sin umbral es una de las actualizaciones más solicitadas en el parque de viviendas más antiguo de Filadelfia, aunque puede requerir ajustar el subsuelo o la ubicación del desagüe según la plomería de la casa."
+        },
+        {
+          "question": "¿Cuánto tiempo toma una remodelación de baño?",
+          "answer": "Una remodelación completa de un baño típicamente toma de 3 a 5 semanas, desde la demolición hasta el recorrido final."
+        },
+        {
+          "question": "¿Necesito un permiso para remodelar un baño en Filadelfia?",
+          "answer": "Sí, para cualquier trabajo de plomería o electricidad. Un permiso básico de remodelación en Filadelfia cuesta generalmente entre $50 y $300; un alcance mayor o cambios estructurales pueden requerir permisos adicionales y revisión de zonificación."
+        }
+      ]
+    },
+    "home-renovation": {
+      "title": "Renovación del Hogar en Filadelfia, PA",
+      "metaDescription": "ARL Service ofrece renovación del hogar y ampliaciones con licencia en Filadelfia, PA — terminación de sótanos, ampliaciones y renovaciones completas, desde el permiso hasta la entrega final.",
+      "heroSubtitle": "Renovación del hogar y ampliaciones con licencia — terminación de sótanos, ampliaciones de segundo piso y proyectos completos en un solo contrato.",
+      "overview": [
+        "Ya sea para terminar un sótano, agregar una ampliación trasera o renovar un rowhome completo, ARL Service coordina todos los oficios — estructura, electricidad, plomería y HVAC — bajo un solo contrato y cronograma.",
+        "Los lotes pequeños de Filadelfia hacen que muchas ampliaciones crezcan hacia arriba en vez de hacia los lados, lo que implica refuerzo estructural de la vivienda existente. Evaluamos la estructura de su casa y los requisitos de zonificación de la ciudad antes de finalizar un diseño."
+      ],
+      "whatsIncluded": [
+        "Terminación e impermeabilización de sótanos",
+        "Ampliaciones traseras y de segundo piso",
+        "Trabajo estructural (remoción de paredes, instalación de vigas de carga)",
+        "Renovaciones integrales del hogar coordinando todos los oficios",
+        "Coordinación de permisos y zonificación con la Ciudad de Filadelfia"
+      ],
+      "faqs": [
+        {
+          "question": "¿Cuánto cuesta una ampliación o renovación del hogar en Filadelfia?",
+          "answer": "Las ampliaciones en Filadelfia generalmente cuestan entre $150 y $300 por pie cuadrado, según si se construye hacia los lados o se agrega un segundo piso, lo cual requiere más trabajo estructural. Una renovación integral del hogar generalmente va de $40,000 a $150,000 o más, según la metratura y el alcance."
+        },
+        {
+          "question": "¿Necesito una variancia de zonificación para ampliar mi casa en Filadelfia?",
+          "answer": "Depende del distrito de zonificación de la propiedad y del tamaño, la altura y los retiros de la ampliación propuesta. Algunas ampliaciones encajan dentro de la zonificación existente automáticamente, mientras que otras requieren una variancia del Zoning Board of Adjustment. Revisamos esto durante la fase de diseño, antes de que usted confirme un plan final."
+        },
+        {
+          "question": "¿Cuánto tiempo toma una renovación integral del hogar?",
+          "answer": "Una renovación integral del hogar generalmente toma de 3 a 6 meses, desde la aprobación del permiso hasta la inspección final, según el alcance del trabajo y la cantidad de oficios involucrados."
+        },
+        {
+          "question": "¿Pueden terminar el sótano de mi rowhome en Filadelfia?",
+          "answer": "Sí. La terminación de sótanos en rowhomes más antiguos de Filadelfia generalmente requiere resolver primero problemas de humedad y altura de techo — evaluamos ambos en la visita inicial, antes de proponer un diseño."
+        }
+      ]
+    }
+  },
+  "ServicesHub": {
+    "title": "Nuestros Servicios",
+    "subtitle": "ARL Service es un contratista general con licencia que ofrece remodelación de cocina, remodelación de baño y renovación integral del hogar en toda Filadelfia, PA."
+  },
+  "ServiceDetail": {
+    "whatsIncludedTitle": "Qué Incluye",
+    "faqTitle": "Preguntas Frecuentes",
+    "ctaTitle": "¿Listo para comenzar su proyecto?",
+    "ctaSubtitle": "Solicite un presupuesto gratis y sin compromiso para su proyecto en Filadelfia.",
+    "backToServices": "Todos los Servicios"
+  },
+  "Portfolio": {
+    "title": "Nuestro Portafolio",
+    "subtitle": "Proyectos reales de antes y después en toda Filadelfia.",
+    "emptyTitle": "Portafolio próximamente",
+    "emptyBody": "Estamos fotografiando proyectos recientes en Filadelfia para agregar aquí — vuelva pronto."
+  },
+  "Contact": {
+    "title": "Contacte a ARL Service",
+    "subtitle": "¿Preguntas sobre su proyecto? Contáctenos directamente o solicite un presupuesto gratis a continuación.",
+    "infoTitle": "Contáctenos",
+    "mapTitle": "Área de Servicio",
+    "formTitle": "Solicitar Presupuesto Gratis"
+  }
+}
