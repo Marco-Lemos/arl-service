@@ -7,8 +7,9 @@
   /* Base radius: modest and structural rather than soft/bubbly. */
   --radius: 0.375rem;
 
-  /* Ink -- cool charcoal, not flat black. Primary text. */
-  --foreground: oklch(0.22 0.02 250);
+  /* Foreground -- the real ARL Service navy, color-sampled directly from
+     their logo and business card (RGB ~13,27,42 / #0d1b2a). */
+  --foreground: oklch(0.218 0.036 251.3);
   /* Paper -- a whisper of warmth, not the cream/parchment cliche. */
   --background: oklch(0.985 0.004 75);
 
@@ -17,31 +18,32 @@
   --popover: oklch(1 0 0);
   --popover-foreground: var(--foreground);
 
-  /* Brick -- deep, burnt brick red. Philadelphia rowhouse masonry, not a
-     soft pastel terracotta. This is the one bold color in the system. */
-  --primary: oklch(0.42 0.14 35);
+  /* Primary -- the real ARL Service red, color-sampled directly from their
+     logo and business card (RGB ~155,15,15 / #9b0f0f). */
+  --primary: oklch(0.439 0.171 28.1);
   --primary-foreground: oklch(0.98 0.006 75);
 
   /* Stone -- quiet warm neutral for secondary surfaces and hover states. */
   --secondary: oklch(0.94 0.012 75);
   --secondary-foreground: var(--foreground);
   --muted: oklch(0.94 0.012 75);
-  --muted-foreground: oklch(0.48 0.015 250);
+  --muted-foreground: oklch(0.48 0.015 251);
   --accent: oklch(0.94 0.012 75);
   --accent-foreground: var(--foreground);
 
   /* Deliberately a different hue from --primary so a real error state is
-     never confused with the brand's brick CTA color. */
+     never confused with the brand's red CTA color. */
   --destructive: oklch(0.55 0.22 25);
 
   --border: oklch(0.89 0.012 75);
   --input: oklch(0.89 0.012 75);
   --ring: var(--primary);
 
-  /* Slate -- secondary accent used deliberately (links, badges, icons),
-     not wired into every hover state. Steel/blueprint, not decoration. */
-  --slate: oklch(0.42 0.06 240);
-  --slate-foreground: oklch(0.98 0.006 75);
+  /* Gold -- matches the "AFTER" tag color already used in ARL Service's own
+     before/after marketing graphics (RGB ~226,194,85 / #e2c255). Reserved
+     for badges and success/highlight accents, not everyday UI. */
+  --gold: oklch(0.821 0.132 92.9);
+  --gold-foreground: oklch(0.218 0.036 251.3);
 }
 
 @theme inline {
@@ -71,8 +73,8 @@
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
-  --color-slate: var(--slate);
-  --color-slate-foreground: var(--slate-foreground);
+  --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
 }
 
 html {

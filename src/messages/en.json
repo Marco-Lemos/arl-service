@@ -73,7 +73,9 @@
     "testimonialsEmptyTitle": "Reviews coming soon",
     "testimonialsEmptyBody": "We're collecting reviews from recent clients to feature here.",
     "estimateTitle": "Request Your Free Estimate",
-    "estimateSubtitle": "Tell us about your project — we'll follow up within one business day."
+    "estimateSubtitle": "Tell us about your project — we'll follow up within one business day.",
+    "taglinePart1": "QUALITY WORK.",
+    "taglinePart2": "BUILT ON TRUST."
   },
   "Services": {
     "kitchen-remodeling": {
@@ -108,7 +110,7 @@
       "faqs": [
         {
           "question": "How much does a kitchen remodel cost in Philadelphia?",
-          "answer": "Most Philadelphia kitchen remodels run between $20,000 and $60,000, depending on the size of the kitchen, the scope of layout changes, and the finishes selected. A cosmetic refresh — new countertops, cabinet fronts, and a backsplash without moving plumbing — typically stays under $25,000. A full gut renovation with a new layout, custom cabinetry, and high-end appliances can run $60,000 or more. We provide a firm, written quote after an in-home assessment."
+          "answer": "Every kitchen is different — the layout, finishes, and condition of the existing plumbing and electrical all affect the final price. We provide a firm, written quote after a free in-home assessment, with no obligation."
         },
         {
           "question": "Do I need a permit to remodel my kitchen in Philadelphia?",
@@ -142,7 +144,7 @@
       "faqs": [
         {
           "question": "How much does a bathroom remodel cost in Philadelphia?",
-          "answer": "Most Philadelphia bathroom remodels range from $10,000 to $50,000. A budget refresh that keeps the existing layout — new tile, vanity, and fixtures — typically runs $10,000 to $20,000. A full gut renovation that moves plumbing or expands the space can run $30,000 to $50,000 or more."
+          "answer": "Every bathroom is different — the scope of work, fixtures, and any plumbing changes affect the final price. We provide a firm, written quote after a free in-home assessment, with no obligation."
         },
         {
           "question": "Can I add a walk-in shower to an older Philadelphia bathroom?",
@@ -176,7 +178,7 @@
       "faqs": [
         {
           "question": "How much does a home addition or renovation cost in Philadelphia?",
-          "answer": "Home additions in Philadelphia typically run $150 to $300 per square foot, depending on whether you're building out or adding a second story, which requires more structural work. A whole-home renovation typically ranges from $40,000 to $150,000 or more, depending on square footage and scope."
+          "answer": "Every project is different — square footage, structural work, and the number of trades involved all affect the final price. We provide a firm, written quote after a free in-home assessment, with no obligation."
         },
         {
           "question": "Do I need a zoning variance for a home addition in Philadelphia?",

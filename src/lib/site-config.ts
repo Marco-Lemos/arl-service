@@ -13,10 +13,10 @@ export const siteConfig = {
   url: 'https://arlservice.online',
 
   phone: {
-    display: '(215) 555-0100', // TODO: replace with the real business line
-    href: 'tel:+12155550100'
+    display: '(267) 296-3958', // real business line, from the business card
+    href: 'tel:+12672963958'
   },
-  email: 'info@arlservice.online', // TODO: confirm the real inbox to use
+  email: 'arlindolemos.service@gmail.com', // real inbox, from the business card
 
   address: {
     street: '[Street address pending]', // TODO

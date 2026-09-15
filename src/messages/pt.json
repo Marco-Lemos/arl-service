@@ -73,7 +73,9 @@
     "testimonialsEmptyTitle": "Depoimentos em breve",
     "testimonialsEmptyBody": "Estamos reunindo depoimentos de clientes recentes para exibir aqui.",
     "estimateTitle": "Solicite Seu Orçamento Gratuito",
-    "estimateSubtitle": "Conte um pouco sobre o seu projeto — respondemos em até um dia útil."
+    "estimateSubtitle": "Conte um pouco sobre o seu projeto — respondemos em até um dia útil.",
+    "taglinePart1": "TRABALHO DE QUALIDADE.",
+    "taglinePart2": "CONSTRUÍDO SOBRE CONFIANÇA."
   },
   "Services": {
     "kitchen-remodeling": {
@@ -108,7 +110,7 @@
       "faqs": [
         {
           "question": "Quanto custa reformar uma cozinha na Filadélfia?",
-          "answer": "A maioria das reformas de cozinha na Filadélfia fica entre $20.000 e $60.000, dependendo do tamanho da cozinha, da extensão das mudanças de layout e dos acabamentos escolhidos. Uma atualização pontual — novas bancadas, frentes de armário e backsplash sem mexer no encanamento — geralmente fica abaixo de $25.000. Uma reforma completa com novo layout, armários sob medida e eletrodomésticos de alto padrão pode passar de $60.000. Fornecemos um orçamento fechado e por escrito após uma visita técnica."
+          "answer": "Cada cozinha é diferente — o layout, os acabamentos e a condição do encanamento e da elétrica existentes afetam o preço final. Fornecemos um orçamento fechado e por escrito após uma visita técnica gratuita, sem compromisso."
         },
         {
           "question": "Preciso de alvará para reformar minha cozinha na Filadélfia?",
@@ -142,7 +144,7 @@
       "faqs": [
         {
           "question": "Quanto custa reformar um banheiro na Filadélfia?",
-          "answer": "A maioria das reformas de banheiro na Filadélfia fica entre $10.000 e $50.000. Uma atualização básica que mantém o layout existente — novo revestimento, gabinete e metais — geralmente fica entre $10.000 e $20.000. Uma reforma completa que muda o encanamento ou amplia o espaço pode passar de $30.000 a $50.000."
+          "answer": "Cada banheiro é diferente — o escopo do trabalho, os metais e eventuais mudanças no encanamento afetam o preço final. Fornecemos um orçamento fechado e por escrito após uma visita técnica gratuita, sem compromisso."
         },
         {
           "question": "Posso colocar um box walk-in em um banheiro antigo na Filadélfia?",
@@ -176,7 +178,7 @@
       "faqs": [
         {
           "question": "Quanto custa uma ampliação ou reforma residencial na Filadélfia?",
-          "answer": "Ampliações na Filadélfia geralmente custam entre $150 e $300 por pé quadrado, dependendo se a ampliação é para os lados ou para cima (segundo andar), que exige mais trabalho estrutural. Uma reforma residencial completa geralmente varia de $40.000 a $150.000 ou mais, dependendo da metragem e do escopo."
+          "answer": "Cada projeto é diferente — metragem, trabalho estrutural e o número de especialidades envolvidas afetam o preço final. Fornecemos um orçamento fechado e por escrito após uma visita técnica gratuita, sem compromisso."
         },
         {
           "question": "Preciso de uma variação de zoneamento para ampliar minha casa na Filadélfia?",

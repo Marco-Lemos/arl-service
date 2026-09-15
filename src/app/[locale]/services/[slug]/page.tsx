@@ -51,7 +51,7 @@ export default async function ServiceDetailPage({ params }: Props) {
 
   const t = await getTranslations('ServicePages');
   const tDetail = await getTranslations('ServiceDetail');
-  const { icon: Icon, priceRangeLow, priceRangeHigh } = SERVICE_PAGES[slug];
+  const { icon: Icon } = SERVICE_PAGES[slug];
 
   const overview = t.raw(`${slug}.overview`) as string[];
   const whatsIncluded = t.raw(`${slug}.whatsIncluded`) as string[];
@@ -70,15 +70,6 @@ export default async function ServiceDetailPage({ params }: Props) {
       '@type': 'City',
       name: siteConfig.address.city,
       containedInPlace: { '@type': 'State', name: 'Pennsylvania' }
-    },
-    offers: {
-      '@type': 'Offer',
-      priceSpecification: {
-        '@type': 'PriceSpecification',
-        minPrice: priceRangeLow,
-        maxPrice: priceRangeHigh,
-        priceCurrency: 'USD'
-      }
     }
   };
 
